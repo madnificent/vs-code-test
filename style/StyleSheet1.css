@@ -1,0 +1,12 @@
+﻿body
+{
+    background-color:deeppink;
+}
+
+p{
+    color:white;
+    font-weight:bold;
+    text-align:center;
+    font-size:72px;
+    margin-top:45vh;
+}
